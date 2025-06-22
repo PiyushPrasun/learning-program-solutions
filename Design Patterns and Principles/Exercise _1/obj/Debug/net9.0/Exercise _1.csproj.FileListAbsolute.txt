@@ -1,0 +1,14 @@
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\bin\Debug\net9.0\Exercise _1.exe
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\bin\Debug\net9.0\Exercise _1.deps.json
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\bin\Debug\net9.0\Exercise _1.runtimeconfig.json
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\bin\Debug\net9.0\Exercise _1.dll
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\bin\Debug\net9.0\Exercise _1.pdb
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\Exercise _1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\Exercise _1.AssemblyInfoInputs.cache
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\Exercise _1.AssemblyInfo.cs
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\Exercise _1.csproj.CoreCompileInputs.cache
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\Exercise _1.dll
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\refint\Exercise _1.dll
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\Exercise _1.pdb
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\Exercise _1.genruntimeconfig.cache
+D:\cognizant\week1\Design Patterns and Principles\Exercise _1\obj\Debug\net9.0\ref\Exercise _1.dll
