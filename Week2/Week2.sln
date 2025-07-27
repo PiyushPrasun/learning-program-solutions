@@ -1,0 +1,44 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK2_MOQ_HANDS_on", "WEEK2_MOQ_HANDS_on", "{0E695B40-C392-1AE4-6782-7242CC4FE996}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK2_NUNIT_hands_ON", "WEEK2_NUNIT_hands_ON", "{F207B2EB-5AB5-E829-B9E0-097EC6D83502}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK2_MOQ_HANDS_on", "WEEK2_MOQ_HANDS_on", "{CC47A900-FE58-2CB8-F5F3-0DD8818CA389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqMailSenderTest", "WEEK2_MOQ_HANDS_on\WEEK2_MOQ_HANDS_on\MoqMailSenderTest\MoqMailSenderTest.csproj", "{A52E54D7-0F34-EE9E-AB39-6FB453937181}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WEEK2_NUNIT_hands_ON", "WEEK2_NUNIT_hands_ON", "{5620351A-0DF0-33D7-AB1D-905483BBAC35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitCalculatorTest", "WEEK2_NUNIT_hands_ON\WEEK2_NUNIT_hands_ON\NUnitCalculatorTest\NUnitCalculatorTest.csproj", "{96A042A9-C386-32BE-780E-881FFD531FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52E54D7-0F34-EE9E-AB39-6FB453937181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52E54D7-0F34-EE9E-AB39-6FB453937181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52E54D7-0F34-EE9E-AB39-6FB453937181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52E54D7-0F34-EE9E-AB39-6FB453937181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A042A9-C386-32BE-780E-881FFD531FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A042A9-C386-32BE-780E-881FFD531FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A042A9-C386-32BE-780E-881FFD531FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A042A9-C386-32BE-780E-881FFD531FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC47A900-FE58-2CB8-F5F3-0DD8818CA389} = {0E695B40-C392-1AE4-6782-7242CC4FE996}
+		{A52E54D7-0F34-EE9E-AB39-6FB453937181} = {CC47A900-FE58-2CB8-F5F3-0DD8818CA389}
+		{5620351A-0DF0-33D7-AB1D-905483BBAC35} = {F207B2EB-5AB5-E829-B9E0-097EC6D83502}
+		{96A042A9-C386-32BE-780E-881FFD531FBD} = {5620351A-0DF0-33D7-AB1D-905483BBAC35}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90533D8F-5795-4056-848D-F041A85F3582}
+	EndGlobalSection
+EndGlobal
